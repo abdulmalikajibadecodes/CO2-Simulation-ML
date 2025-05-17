@@ -163,13 +163,13 @@ results = processor.run_simulation(output_dir="results/")
 
 Visualization of CO₂ saturation in Layer 9:
 
-![Layer Visualization Example](https://raw.githubusercontent.com/username/sleipner-co2/main/examples/layer_9_saturation.png)
+![Layer Visualization Example](https://github.com/abdulmalikajibadecodes/CO2-Simulation-ML/blob/main/sleipner_visualizations/3d_binary_clipped.png)
 
 ### 3D Plume Visualization
 
 Three-dimensional representation of the entire CO₂ plume across all layers:
 
-![3D Plume Example](https://raw.githubusercontent.com/username/sleipner-co2/main/examples/3d_saturation.png)
+![3D Plume Example](https://github.com/abdulmalikajibadecodes/CO2-Simulation-ML/blob/main/sleipner_visualizations/3d_plume.png)
 
 ### Metrics Visualization
 

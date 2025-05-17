@@ -1,4 +1,4 @@
-# Sleipner CO2 Storage Migration Monitoring 🌊💾
+# Sleipner CO2 Storage Migration Monitoring 
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.20+-green.svg)](https://numpy.org/)
